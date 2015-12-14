@@ -1,2 +1,2 @@
 # hello-world
-The first test hello-world repository.
+Hi, I'm Yubo.
